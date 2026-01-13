@@ -1,0 +1,5 @@
+{
+  "name": "工程預算執行管理系統 Pro",
+  "description": "專業工程預算監控與 AI 智能分析平台，支援 Excel 匯入匯出、雲端即時同步與 Gemini AI 預算風險評估。",
+  "requestFramePermissions": []
+}
